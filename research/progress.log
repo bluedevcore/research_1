@@ -1,3 +1,14 @@
+# STATUS (written at end of run, 2026-11-06T22:05Z)
+# All deliverables are done and pushed: 00-INDEX, 01-15, verification.md, 99-morning-brief, pdf/ (18 files + combined).
+# REAL LIMIT HIT: the cloud environment's network policy ("limited", no allowed hosts) blocked page fetches for almost every
+# source site; only anthropic.com, microsoft.com and raw.githubusercontent.com could be opened. Web search worked but has a
+# shared cap of ~200 searches per turn. So: (1) most findings rest on search extracts citing primary URLs, not full reads;
+# (2) all track files remain marked INCOMPLETE or partial at the top, listing exactly what is missing;
+# (3) verification: 9 numbers re-fetched, 17 corroborated by independent search, 2 corrected, 1 moved to DO NOT CITE;
+#     all 42 quotes re-fetched and matched, but every verified quote is from Anthropic or Microsoft.
+# WHAT'S LEFT: allow the blocked hosts (list in 15-open-questions.md) in the environment's network settings, then re-run
+# the verification pass across the ~330 rows of 12-facts-and-figures.md and fill the per-track gaps listed in each file.
+
 # progress.log (newest entries at bottom; timestamps UTC)
 2026-11-06T21:22Z START. Read overnight-research-prompt.md. Repo already git; working in ./research/ (git init skipped per run rules).
 2026-11-06T21:23Z TOOLS. pandoc present; python markdown/weasyprint missing (will install at PDF step). WebSearch + WebFetch confirmed working.
@@ -34,3 +45,4 @@
 2026-11-06T21:46Z DONE 99-morning-brief.md (under 800 words)
 2026-11-06T21:47Z DONE 00-INDEX.md. Next: PDF export.
 2026-11-06T21:54Z PDF EXPORT DONE. pandoc 3.1.3 with weasyprint as PDF engine (first option in the brief; no LaTeX installed, so weasyprint used as pandoc's engine). 18 per-file PDFs + combined AI-native-transition-full.pdf (222 pages, order 99, 00, 01-15). Checked rendering of title/TOC, 01 table and links, and 12 facts tables: OK. Fixed dollar signs being parsed as TeX math. Updated 01 verdict row E after verification correction.
+2026-11-06T21:55Z RUN COMPLETE.
