@@ -1,4 +1,4 @@
-INCOMPLETE. Missing: (1) solo operators / micro-business data (US Census nonemployer statistics, Census Business Formation Statistics, ONS self-employment, "one-person billion-dollar company" claims); (2) care sector shortages and wages; (3) Spain four-day-week pilot and post-2022 four-day-week trials (US/Canada, Portugal, Germany); (4) retirement and wellbeing studies; (5) verbatim quotes. Reason: in this session every page fetch failed (curl got a 403 from the egress proxy for nber.org, bls.gov, census.gov, ons.gov.uk, autonomy.work, ssrn and others; WebFetch could not resolve nber.org, openresearchlab.org, gwern.net, ideas.repec.org, bls.gov), and the shared web-search budget for the run ran out partway through this track. Every finding below is therefore based on search-engine summaries of the cited URL, not on a page I read in full. Treat specific numbers as "to re-verify against the primary" before publishing. Where a summary flagged a discrepancy, it is reported.
+INCOMPLETE (narrower after the 2026-11-06 gap-fill pass). Now covered from search extracts: US business formation and nonemployer data, UK self-employment, the Medvi and Base44 "solo company" cases, UK and US care-sector vacancies and pay, and the Germany, Valencia, Spain-national and Tokyo four-day-week schemes. Still missing: (1) retirement and wellbeing studies; (2) verbatim quotes (no page could be fetched); (3) Spain national pilot results and Tokyo uptake (none found); (4) nonemployer data for 2024-2025, which would be the first AI-era read; (5) primary checks of the court docket and FDA letter for Medvi. Every finding is based on search-engine summaries of the cited URL, not on a page read in full; treat specific numbers as "to re-verify against the primary".
 
 # Track 8: What will people do?
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
@@ -15,6 +15,9 @@ _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = 
 - **A job guarantee in the original Marienthal village (Gramatneusiedl, Austria, from 2020) raised participants' wellbeing, time structure, status and social inclusion, with no physical-health effect** (Kasy and Lehner, Oxford/IZA 2023). This is the most direct test of Jahoda's thesis, and it supports her: what the long-term unemployed lacked was the structure of work, not only income.
 - **"Removing rote work makes people more human" is not supported by the early AI evidence, and some of it points the other way.** A 2025 Scientific Reports paper (four experiments, N=3,562) found GenAI collaboration improved performance but lowered intrinsic motivation and raised boredom when people returned to solo work. An eight-month ethnography published in HBR (Feb 2026) found AI time savings turned into task expansion, blurred boundaries and longer hours. Danish administrative data (Humlum and Vestergaard, NBER 2025) found precise zero effects on earnings and hours, with some new tasks created. Freed time is so far being absorbed by more work, not by more human activity.
 - **Four-day-week evidence is real but weaker than its reputation.** The UK 2022 pilot (61 self-selected firms, about 2,900 staff, 56 continuing afterwards) and Iceland's trials are often cited. The Iceland "overwhelming success" claim comes from an advocacy think tank's report. It describes reductions to 35-36 hours in public-sector workplaces covering about 2,500 workers (about 1% of the working population), not a four-day week.
+
+- **Solo and micro-business: the US boom predates AI, the UK is going the other way, and the "one-person billion-dollar company" cases are thinner than the headlines.** US business applications hit a record of about 5.67 million in 2025, but the share likely to hire fell from 37.6% (2019) to 30.1%; nonemployers grew 4.7-4.9% a year in 2021-22, before ChatGPT. UK self-employment is about 4.4 million, down from about 5.0 million in 2019. Medvi had about $401m of 2025 revenue with two staff but outsourced its clinical work and faces an FDA warning letter and a class action; the "$1.8bn" is a projection.
+- **Care is where demand grows, at the wage floor.** English care workers' median pay was £12.60 an hour, 39p above the minimum wage (Dec 2025); US home care aides earn a median $34,900 a year, with 765,800 openings a year, mostly replacing leavers. UK care vacancies (6.2%) fell because of migration, which is now drying up.
 
 ## Key findings
 
@@ -112,6 +115,9 @@ Gap-fill pass (2026-11-06). All items rest on search-engine extracts; no page wa
 - **"Stockton guaranteed income increased full-time employment."** This rests on 125 recipients over one year, with a 12 pp rise against a 5 pp rise in the control group. The direction is suggestive, but the sample is too small to carry the weight it is given.
 - **"Four-day week: 92% of firms kept it" (UK 2022).** This is 56 of 61 continuing in some form, with 18 making it permanent, all from a self-selected pool of firms run through an advocacy organisation.
 
+- **"The one-person billion-dollar company is here" (Medvi, 2026).** Traces to a New York Times profile (April 2026) built around Sam Altman's 2024 prediction. The verified figure is about $401m of 2025 revenue; $1.8bn is the founder's 2026 projection. The firm has two staff plus contractors and partner networks, an FDA warning letter (Feb 2026, disputed) and a class action. Not a valuation, not one person, not settled.
+- **"73% of German firms won't go back to five days" (2024 pilot).** 45 self-selected firms, about 900 staff, organised with an advocacy group; about 20% did go back; the lead academic cautioned against generalising.
+
 ## Strongest counter-evidence
 
 **Against the thesis's humane framing ("freedom to be more human"):**
@@ -131,12 +137,12 @@ Gap-fill pass (2026-11-06). All items rest on search-engine extracts; no page wa
 
 ## Open questions
 
-- Solo operators and agent teams: pull US Census Nonemployer Statistics (latest release, likely reference year 2022 or 2023), Census Business Formation Statistics (2024-26 business applications, especially high-propensity applications), ONS Labour Force Survey self-employment (UK self-employment has not returned to its pre-pandemic level, but the figure is not verified here), and the BTOS AI-use supplement split by firm size. Is there any measurable post-2023 rise in nonemployer firms or revenue per nonemployer that could plausibly be attributed to AI?
+- Solo operators (partly answered in the gap-fill pass): still need 2024-2025 nonemployer counts and receipts when published, BTOS AI use split by firm size, and the primary sources for Medvi (FDA warning letter 721455, California docket, NYT profile). Original note: pull US Census Nonemployer Statistics (latest release, likely reference year 2022 or 2023), Census Business Formation Statistics (2024-26 business applications, especially high-propensity applications), ONS Labour Force Survey self-employment (UK self-employment has not returned to its pre-pandemic level, but the figure is not verified here), and the BTOS AI-use supplement split by firm size. Is there any measurable post-2023 rise in nonemployer firms or revenue per nonemployer that could plausibly be attributed to AI?
 - "One-person billion-dollar company": trace Sam Altman's claim (2024) and find any actual solo or tiny-team companies with large valuations or exits (e.g. the Base44 sale to Wix in 2025 was reported at about $80m with a solo founder; this is unverified here).
-- Care sector: UK Skills for Care vacancy data, US BLS home health and personal care aide wages and openings. Is care the absorbing sector, and at what pay?
+- Care sector (partly answered): is anyone moving from AI-exposed occupations into care? No flow data found. Check the 2026 Skills for Care pay report against the April 2026 NLW.
 - OpenResearch: reconcile 1.3 hrs/week and 2 pp with the 3.9 pp and about $2,000/yr figures. Get the detailed time-use table (leisure vs care vs education).
 - Kenya UBI: are there long-run (2025-26) results from the 12-year arm?
-- Four-day week: independent (non-advocacy) evaluations; the Spain government pilot; 2024-26 trials; the Tokyo metropolitan government four-day week (2025).
+- Four-day week: still no independent randomised evaluation found; Spain national pilot results and Tokyo uptake numbers not found; check the University of Münster's own publication for the German pilot (methods, any wearable or cortisol measures).
 - Retirement: does retirement improve or harm wellbeing and cognition? This is the closest natural experiment for voluntary non-work with secure income.
 - AI and job quality: are there field (not lab) studies of GenAI and meaning or autonomy, e.g. OECD worker surveys, Eurofound, or UK AI Security Institute and ONS opinions data?
 - Gramatneusiedl: exact participant n, and whether effects persisted after the 2024 end of the pilot.
@@ -147,7 +153,7 @@ Gap-fill pass (2026-11-06). All items rest on search-engine extracts; no page wa
 - Whether the harm of losing work comes from losing income, losing structure, or losing status in a society that values employment. Existing evidence cannot separate them cleanly. A world of secure income and no stigma has never been observed.
 - Whether freed time would be used differently if it came to everyone at once (a social norm) rather than to individuals in a treatment group or to the unemployed.
 - Whether the work-intensification finding is a transitional effect of early tools and management norms or a lasting feature.
-- Whether solo AI-enabled businesses are a real trend or a set of anecdotes. This was not researched here.
+- Whether solo AI-enabled businesses are a real trend or a set of anecdotes. The headline cases rest on outsourced labour, and the official series that would show a trend stop at 2023 (US) or point down (UK).
 
 ## Numbers for the facts file
 
@@ -171,6 +177,18 @@ Gap-fill pass (2026-11-06). All items rest on search-engine extracts; no page wa
 | ~30% vs ~1% | Share of lost work hours going to sleep plus TV vs job search, Great Recession | Aguiar, Hurst, Karabarbounis (NBER Digest) | https://www.nber.org/digest/nov11/time-use-during-recessions | Nov 2011 | ATUS-based; secondary summary |
 | N=3,562; ~-11% motivation, ~+20% boredom | GenAI collaboration followed by solo work | Scientific Reports (4 experiments) | https://fortune.com/2025/06/03/ai-boost-worker-productivity-hurts-motivation-boredom | Apr 2025 (paper) | Online experiments; effect sizes from secondary coverage |
 | 3-7% | Share of chatbot productivity gains passed through to earnings | Humlum and Vestergaard, NBER WP 33777 | https://econpapers.repec.org/RePEc:nbr:nberwo:33777 | 2025 | Danish register data, 25,000 workers; working paper |
+| ~5,671,836 | US business applications, 2025 (annual record) | Census BFS (annual sum via secondary) | https://www.census.gov/econ/bfs/pdf/historic/bfs_2025m12.pdf | Jan 2026 | Official monthly data; annual total from secondary sum |
+| 37.6% to 30.1% | High-propensity share of US business applications, 2019 to 2025 | Consultant calculation from Census BFS | https://founderreports.com/how-many-businesses-are-started-each-year/ | 2026 | Secondary calculation |
+| 29.8m (2022); 30.4m (2023) | US nonemployer businesses | Census NES / NES-D | https://www.census.gov/library/stories/2025/07/nonemployer-business-growth.html | Jul / Nov 2025 | Official; search extract |
+| 4.9%; 4.7% | Nonemployer growth 2021, 2022 (employer: 1.9%, 1.8%) | Census | https://www.census.gov/library/stories/2025/07/nonemployer-business-growth.html | Jul 2025 | Official; pre-AI period |
+| ~4.38m vs ~5.0m | UK self-employed, Q4 2025 vs end-2019 | ONS LFS via Statista | https://statista.com/statistics/318234/united-kingdom-self-employed | 2026 | LFS volatile; series disagree |
+| ~$401m; ~$65m | Medvi 2025 revenue; net profit | NYT via Dealroom | https://dealroom.co/news/127216-from-20k-to-1-8b-in-revenue-how-one-founder-built-a-telehealth-giant-wit/ | Apr 2026 | Journalist saw financials; contested; $1.8bn is a projection |
+| ~$80m + earn-out | Wix purchase of Base44 (6-8 staff, ~6 months old) | Globes | https://en.globes.co.il/en/article-wix-acquires-israeli-vibe-coding-co-base44-1001513267 | Jun 2025 | Press report |
+| 6.2%; ~96,000 | England adult social care vacancy rate and vacancies, 2025/26 | Skills for Care via LocalGov | https://www.localgov.co.uk/Social-care-vacancy-rate-falls-to-decade-low-but-challenges-ahead/64563 | Jun 2026 | Sector data body; secondary report |
+| £12.60 (39p above NLW) | Median care worker hourly pay, England, Dec 2025 | Skills for Care via Healthcare Management | https://www.healthcare-management.uk/care-workers-pay-minimum-wage-reveals | 2026 | Sector data; NLW rose to £12.71 in Apr 2026 |
+| $34,900; +17%; 765,800/yr | US home health and personal care aides: median pay 2024; growth 2024-34; annual openings | BLS OOH | https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm | 2025 | Official; search extract |
+| 45 firms, ~900 staff; ~73% continue | Germany four-day-week pilot 2024 | University of Münster / Intraprenör via The Local | https://www.thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial | Nov 2024 | Self-selected; ~20% reverted |
+| 9.5% | Traffic fall during Valencia's four Monday holidays, 2023 | City-commissioned evaluation via The Mayor | https://www.themayor.eu/en/a/view/valencia-s-government-says-4-day-week-trial-was-good-for-the-people-and-the-city-12172 | 2023 | Four weeks; holidays not work redesign |
 
 ## Verbatim quotes
 
@@ -193,3 +211,5 @@ None. No page could be fetched in this session, so no wording could be checked a
 8. Crafts, "Economic Possibilities for our Grandchildren revisited": a quantified check of Keynes. <https://repec.cepr.org/repec/cpr/ceprdp/DP16140.pdf>
 9. Banerjee et al., Kenya UBI short-term results: a counterpoint showing cash funding enterprise, not leisure. <https://conference.nber.org/conf_papers/f192616.pdf>
 10. Autonomy/Alda Iceland report: read it to see how thin the design is behind the "overwhelming success" headline. <https://issuu.com/4dayweekglobal/docs/iceland_4dw>
+11. Census, "Number of U.S. Nonemployers Grew Faster Than Employer Businesses" (July 2025): the baseline for any claim about a solo-business boom. <https://www.census.gov/library/stories/2025/07/nonemployer-business-growth.html>
+12. Skills for Care, State of the adult social care sector and workforce (2025/26) and pay report: the best data on whether care can absorb displaced workers, and at what pay. <https://www.localgov.co.uk/Social-care-vacancy-rate-falls-to-decade-low-but-challenges-ahead/64563>
