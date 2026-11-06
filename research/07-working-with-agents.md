@@ -1,4 +1,4 @@
-INCOMPLETE (partial). Covered: teaming experiments, oversight and deference evidence, task allocation in agentic use, roles cut vs reshaped (Salesforce, IBM, Klarna), org design (Moderna, Microsoft WTI), context files and shared skills (AGENTS.md, Agent Skills, MCP), Moffatt v Air Canada. Thin or missing: EU AI Act Articles 14 and 26, EU Product Liability Directive, UK and US liability positions, AI-error insurance, ISO/IEC 42001, NIST AI RMF, LinkedIn new-title data, Shopify memo, firm filings. Reason: the shared web-search budget for this run was exhausted mid-track, and most hosts (arxiv.org, nber.org, eur-lex, nist.gov, sec.gov, linkedin.com, news sites) were blocked by the session network. Only anthropic.com and microsoft.com pages could be fetched and verified directly. Items seen only in search snippets are marked "(snippet)".
+INCOMPLETE (partial). Covered: teaming experiments, oversight and deference evidence, task allocation in agentic use, roles cut vs reshaped (Salesforce, IBM, Klarna), org design (Moderna, Microsoft WTI), context files and shared skills (AGENTS.md, Agent Skills, MCP), Moffatt v Air Canada; added in the 2026-11-06 gap-fill pass (search extracts only): EU AI Act Articles 14 and 26 and their post-omnibus dates, Product Liability Directive 2024/2853, withdrawal of the AI Liability Directive, AI insurance (Armilla/Lloyd's, Munich Re, carrier exclusions), ISO/IEC 42001 uptake. Still missing: UK and US liability positions, NIST AI RMF, AI-insurance claims data, PLD transposition by member state, LinkedIn new-title data, Shopify memo, firm filings. Reason: the shared web-search budget for this run was exhausted mid-track, and most hosts (arxiv.org, nber.org, eur-lex, nist.gov, sec.gov, linkedin.com, news sites) were blocked by the session network. Only anthropic.com and microsoft.com pages could be fetched and verified directly. Items seen only in search snippets are marked "(snippet)".
 
 # Track 6: Working with agents
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
@@ -12,6 +12,7 @@ _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = 
 - **Documented role elimination exists but is narrower and messier than headlines.** Salesforce (support from about 9,000 to about 5,000, per the CEO on a podcast, no timeframe or method), IBM (HR roles "in the hundreds", with hiring elsewhere), Klarna (reversed course in 2025 and rehired humans for quality). All three rest on CEO statements, not filings.
 - **Context files and shared skills spread fast; evidence that they improve agent outcomes is mixed.** AGENTS.md reportedly used in 60,000+ projects; Anthropic says 1 million Agent Skills published and about 280 million installed (Oct 2026, vendor figures). But a Feb 2026 study found repository context files tended to reduce coding-agent task success and raised cost by over 20%, while a Jan 2026 study found faster runs and fewer tokens with no change in completion. "Write down the workflow for the agent" is not yet shown to work as well as people assume.
 - **Liability principle is clear at small scale: the deployer owns what its bot says.** Moffatt v Air Canada (2024) rejected the argument that a chatbot is responsible for its own statements. It is a small-claims tribunal decision (about CAD 812) and not binding precedent.
+- **The formal accountability machinery is thin and late.** The EU AI Act names automation bias in Article 14 and requires deployers to assign competent, authorised overseers and keep logs for at least six months (Article 26), but only for high-risk uses, now from December 2027. The EU withdrew its AI Liability Directive in 2025; the new Product Liability Directive makes software, including AI, subject to strict liability from 9 December 2026, but not for pure economic loss. Large insurers are seeking AI exclusions while specialists (Armilla/Lloyd's, up to $25m) sell affirmative cover. BSI had issued 50 ISO/IEC 42001 certificates by November 2026.
 
 ## Key findings
 
@@ -120,8 +121,10 @@ Against the mainstream reading of this track:
 - What does the March 2026 "sharp decrease" in API automation actually measure (product mix, Claude Code traffic moving, or a real shift)? Numbers are in an appendix PDF not retrievable this session.
 - Are there any firm filings (10-K, annual reports) that quantify AI-attributed headcount change with method, rather than CEO remarks?
 - Do non-coding context artefacts (SOPs, Skills for finance or ops) improve outcomes? All controlled evidence found is for coding agents.
-- How do EU AI Act Article 14 and 26 obligations and the revised Product Liability Directive apply to general-purpose agents used by deployers, and what is the timeline after any 2025-2026 simplification package? Not researched this session.
-- Is there real claims data on AI-error insurance, or only product launches?
+- When is a general-purpose business agent "high-risk" under Annex III (e.g. an agent that allocates work or screens applicants as one of many tasks)? Commission guidance on classification was not sourced.
+- Does the PLD's "destruction or corruption of data" head of damage reach business-agent errors that delete or corrupt a customer's records? How have member states transposed it?
+- Is there real claims data on AI-error insurance, or only product launches? (Only launches and exclusion filings found.)
+- UK and US positions on agent liability, and NIST AI RMF uptake: not sourced.
 - Do new titles ("AI agent specialist", "agent ops") show up in job-posting data at meaningful volume?
 
 ## What's genuinely uncertain
@@ -130,7 +133,7 @@ Against the mainstream reading of this track:
 - Whether experienced users' shift from approval to interruption is better oversight or just less oversight. Anthropic reads rising interrupts as active monitoring; it could also reflect harder tasks.
 - Whether automation share in enterprise use is rising or falling: the Sept 2025, Jan 2026 and Mar 2026 Anthropic reports point in different directions.
 - The size of real role elimination: the headline cases are CEO statements with no method.
-- The legal picture beyond one Canadian small-claims decision, which this file did not verify.
+- The legal picture beyond one Canadian small-claims decision and the EU texts. The EU rules summarised here come from law-firm and vendor summaries, not EUR-Lex, and search extracts gave conflicting application dates for Articles 14 and 26 (the omnibus dates in track 9 are the better-sourced ones).
 
 ## Numbers for the facts file
 
@@ -164,6 +167,11 @@ Against the mainstream reading of this track:
 | "hundreds" | IBM HR roles replaced by AI agents | Krishna to WSJ via Entrepreneur | https://www.entrepreneur.com/business-news/ibm-ceo-ai-replaced-hundreds-of-human-resources-staff/491341 | 2025-05 | CEO statement; snippet only |
 | 33% / 78% | Leaders considering headcount cuts / AI-specific hires | Microsoft WTI 2025 | https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born | 2025-04-23 | Vendor survey, n=31,000, intentions only |
 | CAD ~812 | Total award in Moffatt v Air Canada | 2024 BCCRT 149 via McCarthy Tétrault | https://www.mccarthy.ca/en/insights/blogs/techlex/moffatt-v-air-canada-misrepresentation-ai-chatbot | 2024-02 | Snippet only; not binding precedent |
+| >=6 months | Minimum log retention for deployers of high-risk AI (AI Act Art. 26) | Regulation (EU) 2024/1689 via Mishcon de Reya | https://mishcon.com/eu-uk-ai-navigator/article-26 | 2024 (applies Dec 2027 for Annex III after omnibus) | Search extract; check EUR-Lex |
+| 9 Dec 2026 | Transposition deadline, Product Liability Directive 2024/2853 (software and AI as products) | Norton Rose Fulbright | https://connections.nortonrosefulbright.com/post/102jpjp/revised-product-liability-directive-introducing-rules-on-strict-liability-for-ai | OJ 18 Nov 2024 | Search extract |
+| 6 Oct 2025 | Reported OJ date of formal AI Liability Directive withdrawal (announced Feb 2025) | EAPIL | https://eapil.org/2025/10/09/european-commission-withdraws-two-proposals-assignments-of-claims-regulation-and-ai-liability-directive/ | 9 Oct 2025 | Single source for the exact date |
+| $25m | Per-insured limit, Armilla Lloyd's-backed AI liability cover (launched 30 Apr 2025) | Armilla | https://www.armilla.ai/resources/armilla-ai-raises-lloyds-backed-coverage-to-25m-as-traditional-insurers-retreat-from-ai-risk | 2025-2026 | Vendor announcement; no claims data |
+| 50 (11 in 2025) | ISO/IEC 42001 certificates issued by BSI | BSI | https://www.bsigroup.com/en-GB/insights-and-media/media-centre/press-releases/2026/november/bsi-awards-its-50th-iso-iec-42001-certificate/ | Nov 2026 | One certifier only; no global registry |
 | ~1.19M / ~1.03M | GitHub code-search hits for files named AGENTS.md / CLAUDE.md | GitHub search API, queried by this agent | https://api.github.com/search/code?q=filename:AGENTS.md | 2026-11-06 | DO NOT CITE: GitHub's total_count is approximate and includes forks and vendored copies; same query gave ~7M for SKILL.md, which looks implausible |
 
 ## Verbatim quotes
@@ -194,3 +202,5 @@ Against the mainstream reading of this track:
 8. Shao et al., Stanford WORKBank (2025): what workers want automated vs kept. <https://arxiv.org/abs/2506.06576>
 9. Brynjolfsson, Li, Raymond, "Generative AI at Work" (QJE 2025): the reference case for gains concentrated among novices. <https://econpapers.repec.org/RePEc:nbr:nberwo:31161>
 10. Anthropic Economic Index, Sept 2025, Jan 2026 and Mar 2026 reports, read together: the automation share moves around more than any single headline suggests. <https://www.anthropic.com/research/anthropic-economic-index-september-2025-report>
+11. AI Act Articles 14 and 26 in the Official Journal text: the legal definition of human oversight and the deployer's duties, including the automation-bias clause. <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>
+12. Product Liability Directive (EU) 2024/2853, via Norton Rose Fulbright's summary: the liability regime that actually applies to AI software in the EU from December 2026. <https://connections.nortonrosefulbright.com/post/102jpjp/revised-product-liability-directive-introducing-rules-on-strict-liability-for-ai>
