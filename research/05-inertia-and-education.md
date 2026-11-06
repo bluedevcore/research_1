@@ -1,3 +1,5 @@
+INCOMPLETE: missing Gartner manager research, KPMG/Melbourne 2025 hidden-use data, training field experiments, academic de-layering studies (search budget exhausted, most primary hosts blocked). Most non-Microsoft/Anthropic figures are from search summaries and need primary re-check.
+
 # Track 4: Inertia and education
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
