@@ -1,0 +1,5 @@
+# progress.log (newest entries at bottom; timestamps UTC)
+2026-11-06T21:22Z START. Read overnight-research-prompt.md. Repo already git; working in ./research/ (git init skipped per run rules).
+2026-11-06T21:23Z TOOLS. pandoc present; python markdown/weasyprint missing (will install at PDF step). WebSearch + WebFetch confirmed working.
+2026-11-06T21:24Z DECISION. To fit the 1-2h budget across ten tracks, each track is researched by a separate research agent that writes its own track file in full. Run in two waves of five. Each track file is committed (and pushed) individually as soon as it lands, so no more than one track's findings is ever unwritten in any one worker, and nothing is held only in memory. This departs from a literal "one track at a time" sequence; logged as a judgement call.
+2026-11-06T21:24Z DECISION. Verbatim quotes: agents instructed to confirm exact wording against raw page text (curl + grep) where possible, since WebFetch returns a model summary. Unconfirmed wording is paraphrased and labelled.
