@@ -3,6 +3,9 @@ INCOMPLETE (narrower after the 2026-11-06 gap-fill pass). Sections (a) and (b) a
 # Track 10: Contrarian
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 **Access note.** In this session every direct page fetch failed (curl and WebFetch both refused by the network proxy: nber.org, arxiv.org, metr.org, sequoiacap.com, budgetlab.yale.edu, ideas.repec.org, bls.gov, census.gov and others). Every finding below comes from web-search results that showed the source URL with an excerpt or summary. No page was read in full. Figures are therefore "seen in search excerpt, not re-read at source" and should be re-verified at the URL before publication. No verbatim quotes are given, because none could be checked against a fetched page.
 
 ## Summary

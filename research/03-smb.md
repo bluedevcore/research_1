@@ -3,10 +3,13 @@ INCOMPLETE. Covered: official vs vendor adoption figures (US, UK, EU), survey-me
 # Track 2: SMB
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 ## Summary (5-8 bullets, the things that matter most)
 
 - **"How many small businesses use AI" depends on who you ask and how you phrase it. Answers run from about 14% to 76%.** Official random-sample surveys put use at about 14% to 35%: US Census BTOS about 18-24% of all firms, UK DSIT 2025 14% of micro firms, ONS 28% of 0-9 employee firms, Eurostat 17% of small firms. Surveys that draw on membership lists land between: NFIB 24% of small employers. So do the Fed's own small-business survey (46% of employer firms) and the US Chamber (58% use generative AI). Vendor and program panels land highest: Thryv 55%, Goldman Sachs 10,000 Small Businesses 68-76%, Salesforce 75% "experimenting or implemented".
-- **The US official series moved because the question changed, not because firms changed.** On 17 November 2025 Census replaced "AI used in producing goods or services" with "AI used in any business function". Measured use roughly doubled, from about 9% to about 17-18%. Any "SMB AI adoption doubled" headline that bridges late 2025 is mostly a wording artefact.
+- **The US official series moved because the question changed, not because firms changed.** On 17 November 2025 Census replaced "AI used in producing goods or services" with "AI used in any business function". Measured use roughly doubled, from about 10% to about 17% (St Louis Fed figures, confirmed in the verification pass; earlier drafts said 9% to 18%). Any "SMB AI adoption doubled" headline that bridges late 2025 is mostly a wording artefact.
 - **Breadth is rising and depth is not.** In the Fed's employer-firm survey (fieldwork Sep-Nov 2025), about half of AI users said they were "experimenting", 44% "partially integrated" and 7% "fully integrated". Across all employer firms that is roughly 3% fully integrated. ONS (July 2026) found UK adoption among firms with 10+ staff roughly tripled since 2023, while its depth proxy (AI technologies per firm) barely moved.
 - **The barriers in official data cut against the thesis.** When official surveys ask why firms don't use AI, the top answers are "can't identify a use case", "not applicable to my business" and "prefer not to". Missing documented workflows or shared context barely appear. In the Fed survey, a third of employer firms had no plans to use AI. Of those, over half said it was not applicable and 30% said they would rather not use it.
 - **Micro firms are not as far behind as the size gradient suggests.** ONS June 2026: 28% of 0-9 employee firms vs 29% of all firms. A Fed staff note (April 2026) says the smallest firms adopt more than size alone would predict. NFIB still finds a steep gradient: 21% of firms under 10 employees vs 48% over 50. Eurostat's headline series leaves out firms under 10 employees entirely.
@@ -208,7 +211,7 @@ _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = 
 **Against the mainstream reading ("SMBs are rapidly adopting AI"):**
 
 - Official measures sit at about a fifth to a third of firms. "Fully integrated" sits around 3% of US employer firms. UK depth of use is flat while breadth triples. The vendor-survey consensus of "most SMBs use AI" rests on permissive definitions and self-selected panels.
-- The single largest one-period jump in the US official series (about 9% to about 18%) is a questionnaire change.
+- The single largest one-period jump in the US official series (about 10% to about 17%) is a questionnaire change.
 
 **Against the "micro firms lag" assumption:**
 
@@ -238,7 +241,7 @@ _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = 
 
 | Figure | What it measures | Source | URL | Date | Reliability note |
 |---|---|---|---|---|---|
-| ~9% to ~17-18% | US firms using AI, before vs after BTOS question change (17 Nov 2025) | Ramp AI Index; Census wording note | https://ramp.com/data/ai-index-january-2026 | 14 Jan 2026 | Level shift is a wording artefact. Search-summary only |
+| ~10% to ~17% (corrected in verification) | US firms using AI, before vs after BTOS question change (17 Nov 2025) | Ramp AI Index; Census wording note | https://ramp.com/data/ai-index-january-2026 | 14 Jan 2026 | Level shift is a wording artefact. Search-summary only |
 | ~18% | US firms using AI, year-end 2025 (new wording) | Fed FEDS Note | https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html | 3 Apr 2026 | Official staff analysis of BTOS. Search-summary only |
 | ~19.8% | US firms using AI, period ending 3 May 2026 | Census Bureau story | https://census.gov/library/stories/2026/05/ai-use-businesses.html | May 2026 | Official. Search-summary only |
 | <20% | US firms with 1-4 employees using AI (ceiling, not point) | Census Bureau story | https://census.gov/library/stories/2026/05/ai-use-businesses.html | May 2026 | Census publishes as a band |

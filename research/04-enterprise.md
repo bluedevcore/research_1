@@ -3,6 +3,9 @@ INCOMPLETE: page fetching was blocked for every host tried, so every finding bel
 # Track 3: Enterprise
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 ## Summary
 
 - **There is no single "share of pilots reaching production" figure.** The widely cited numbers range from 5% to about 46%. They measure different things: organisations or projects, "reached production" or "showed P&L impact", custom tools or any GenAI. They come from different samples, most of them vendor-sponsored or self-selected. Stacking them as if they agree ("88 to 95% of pilots fail") is a category error.

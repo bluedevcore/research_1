@@ -3,6 +3,9 @@ INCOMPLETE (read before citing): The network for this session reached only micro
 # Track 1: What "AI-native" means
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 ## Summary (5-8 bullets, the things that matter most)
 
 - **No one agrees on what "AI-native" means, and none of the sources I could reach defines it by shared context.** Software and VC writing defines it by **origin** (built around AI from day one) or by **dependency** (the product would not work without models). Telecom defines it by **architecture** (AI designed into every layer instead of added on top). Consultancy and vendor models define it by **breadth of deployment plus self-reported ROI**. Ericsson's own white paper opens by saying the term has no clear definition.

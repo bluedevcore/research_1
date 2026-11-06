@@ -3,6 +3,9 @@ INCOMPLETE (narrower after the 2026-11-06 gap-fill pass). Now covered from searc
 # Track 8: What will people do?
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 **Method note.** No primary document was opened in full in this session (see the INCOMPLETE note). URLs point to the primary source where search surfaced one. Numbers carry the reliability note "search summary only" in the facts table. No verbatim quotes are given, because none could be checked against a fetched page.
 
 ## Summary

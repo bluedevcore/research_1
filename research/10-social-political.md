@@ -3,6 +3,9 @@ INCOMPLETE (less so after gap-fill pass, 2026-11-06). Covered: public opinion (U
 # Track 9: Social and political fallout
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 **Method warning for this file.** No source page was opened directly (also true of the gap-fill pass, whose findings are marked "search extract"). Every finding below comes from web-search result summaries that cite the URL given. The URLs are the primary pages (Pew, Gallup, KPMG/University of Melbourne, NUHW, law-firm notes on the Official Journal), but the numbers have not been checked against the page text in this session. Treat every number as "reported by search, to re-verify" before publishing. There are no verbatim quotes in this file for that reason.
 
 ## Summary

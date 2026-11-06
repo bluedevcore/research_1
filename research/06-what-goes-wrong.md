@@ -3,6 +3,9 @@ PARTIALLY INCOMPLETE. The gap-fill pass added, from search extracts only: Mata v
 # Track 5: What goes wrong
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 **Reading note on sourcing.** For each item, "Seen via search summary" means the URL was returned by the search engine and the claim matches the engine's summary of that page, but the page itself was not opened. Treat those claims as leads to re-verify, not as checked facts. "Fetched" means the raw page was downloaded and read.
 
 ## Summary

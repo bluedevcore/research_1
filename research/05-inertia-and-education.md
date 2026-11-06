@@ -3,6 +3,9 @@ INCOMPLETE. Added in the gap-fill pass (search extracts only): KPMG/Melbourne 20
 # Track 4: Inertia and education
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
+_Verification note (added 2026-11-06): page fetches were blocked for most hosts this session, so findings marked search summary, search extract or snippet rest on search-engine extracts of the cited URL. Quotation marks inside findings mark wording as reported by that source; only quotes in this file's "Verbatim quotes" section (and in 13-quotes.md) were checked against a fetched page. Corrections from the verification pass are in verification.md._
+
+
 > **Access caveat (read first).** This session's network blocked almost every primary host: bcg.com, gallup.com, mckinsey.com, pewresearch.org, stlouisfed.org, nber.org, iza.org, pnas.org, ssrn.com, arxiv.org, tandfonline.com, upwork.com, gartner.com and others. Only microsoft.com and anthropic.com could be fetched. The shared web-search budget also ran out partway through. So I could check figures against the raw page only for Microsoft's Work Trend Index (2024, 2025) and Anthropic's own studies. Every other figure here comes from search-engine summaries of the primary or secondary pages. Those are marked **[search-summary]** and need re-checking against the primary before publication. Where I know the primary URL, I give it.
 >
 > Not covered, because the search budget ran out before I reached them: Gartner on managers; the KPMG/University of Melbourne 2025 trust study (hidden AI use, 47 countries); randomised field experiments on AI training; academic studies of de-layering. See Open questions.
