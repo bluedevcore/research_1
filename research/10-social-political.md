@@ -3,7 +3,7 @@ INCOMPLETE (less so after gap-fill pass, 2026-11-06). Covered: public opinion (U
 # Track 9: Social and political fallout
 _Last updated: 2026-11-06. Labels: EVIDENCE = measured/primary data; FORECAST = projection; OPINION = argument, vendor or consultancy view._
 
-**Method warning for this file.** No source page was opened directly. Every finding below comes from web-search result summaries that cite the URL given. The URLs are the primary pages (Pew, Gallup, KPMG/University of Melbourne, NUHW, law-firm notes on the Official Journal), but the numbers have not been checked against the page text in this session. Treat every number as "reported by search, to re-verify" before publishing. There are no verbatim quotes in this file for that reason.
+**Method warning for this file.** No source page was opened directly (also true of the gap-fill pass, whose findings are marked "search extract"). Every finding below comes from web-search result summaries that cite the URL given. The URLs are the primary pages (Pew, Gallup, KPMG/University of Melbourne, NUHW, law-firm notes on the Official Journal), but the numbers have not been checked against the page text in this session. Treat every number as "reported by search, to re-verify" before publishing. There are no verbatim quotes in this file for that reason.
 
 ## Summary
 
@@ -149,13 +149,13 @@ Against the mainstream reading of this track:
 
 ## Open questions
 
-Items still to source (each was in scope; none could be fetched or searched this session):
-1. UK: AI Opportunities Action Plan (January 2025), the renaming of the AI Safety Institute to AI Security Institute (February 2025), and whether any AI bill has been introduced by November 2026.
-2. US federal: the Senate vote that removed the proposed 10-year state AI moratorium from the 2025 budget bill (reported as 99-1, July 2025: unverified here); AI Litigation Task Force suits filed, if any; Commerce's list of "onerous" state laws; FTC policy statement; any 2026 pre-emption bill.
-3. US states: Colorado AI Act (SB 24-205) current effective date and any 2026 amendments; California SB 53 (signed September 2025) and its first compliance dates; NYC Local Law 144 and the New York State Comptroller's 2025 audit of its enforcement by DCWP; Illinois HB 3773 (AI in employment, effective 2026); Texas TRAIGA (effective January 2026). For each: any enforcement action to date.
-4. Surplus capture: BLS labour share (nonfarm business) through 2026; wage effects in AI field studies (e.g. customer-service and coding RCTs); hyperscaler capex from 10-Ks and 2026 earnings calls (Microsoft, Alphabet, Amazon, Meta); Acemoglu and Johnson "Power and Progress" as OPINION; Acemoglu's "Simple Macroeconomics of AI" estimate.
-5. Anti-AI case: copyright litigation status (NYT v. OpenAI; Bartz v. Anthropic settlement; Getty v. Stability UK ruling); IEA "Energy and AI" (2025) data-centre electricity projections; LBNL 2024 US data-centre energy report; water-use estimates; Bender, Gebru et al. 2021; Gary Marcus; Ed Zitron's revenue-vs-capex critique. Find each one's best evidence, label as OPINION where it is argument.
-6. Grifter layer: FTC Operation AI Comply (September 2024: DoNotPay, Ascend Ecom, Ecommerce Empire Builders, FBA Machine, Rytr) and later cases and outcomes; SEC AI-washing settlements (Delphia and Global Predictions, March 2024; Presto Automation, January 2025); any data on the size of the AI course and consultancy market.
+Items still to source after the gap-fill pass:
+1. UK: confirm on bills.parliament.uk that no AI bill has been introduced; confirm the Action Plan's recommendation count; ONS labour-share data.
+2. US federal: whether the Commerce "onerous laws" list was published; FTC pre-emption policy statement; other Task Force suits; fate of xAI/DOJ v. Colorado after the repeal; any 2026 pre-emption bill.
+3. US states: any enforcement action under SB 53, TRAIGA or Illinois HB 3773 (none found); whether DCWP's NYC LL144 enforcement changed after the audit; the audit PDF's own numbers.
+4. Surplus capture: Q3 2026 capex from filings; whether 54.4% is a series low; Acemoglu and Johnson "Power and Progress" as OPINION.
+5. Anti-AI case: NYT v. OpenAI and Getty v. Stability status; water-use estimates; Bender, Gebru et al. 2021; Marcus; Zitron. Label argument as OPINION.
+6. Grifter layer: final outcomes for Ascend Ecom, FBA Machine, Air AI; any data on the size of the AI course and consultancy market.
 7. Whether the 2026 WGA contract actually changed the AI terms (contract text vs IndieWire's "largely unchanged").
 8. Outcome of the Kaiser NUHW dispute after April 2026.
 
@@ -166,6 +166,8 @@ Items still to source (each was in scope; none could be fetched or searched this
 - Whether union contract language bites. None of the entertainment AI clauses has, to my knowledge, been tested in arbitration (not verified this session).
 - Whether the US pre-emption push survives the courts and Congress, and whether the EU's delay becomes a pattern of further delay.
 - Exact numbers in this file: none was checked against the primary page text in this session.
+- Whether copyright liability for AI training will turn on acquisition (Bartz) or on market substitution (Ross). The two leading decisions point different ways and neither concerns a general-purpose model on appeal.
+- Whether the 2025 fall in US labour share is cyclical or the start of an AI-driven shift. One year of data cannot tell.
 
 ## Numbers for the facts file
 
@@ -192,6 +194,21 @@ Items still to source (each was in scope; none could be fetched or searched this
 | 2 Dec 2027 / 2 Aug 2028 | New EU AI Act high-risk dates (standalone / embedded) after Digital Omnibus | Sidley; National Law Review | https://datamatters.sidley.com/2026/06/22/eu-lawmakers-reach-provisional-agreement-to-delay-key-eu-ai-act-obligations/ | Jun-Jul 2026 | Law-firm summaries; confirm on EUR-Lex |
 | 423-57-174 | European Parliament vote on AI omnibus deal | Industry summary | https://www.europeanoutdoorgroup.com/members-knowledge-hub/european-parliament-adopts-provisional-agreement-on-ai-omnibus | 16 Jun 2026 | Secondary source; confirm on EP site |
 | 0 | Known AI Act fines as of Nov 2026 | Negative search result | n/a | Nov 2026 | Absence of evidence; recheck |
+| 99-1 | Senate vote to strip state-AI-law moratorium from budget bill | Nextgov/Route Fifty | https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448 | 1 Jul 2025 | Search extract; roll call not checked on senate.gov |
+| 1 Jan 2027 | Effective date of Colorado's replacement AI law (SB 26-189); original act never took effect | Ropes & Gray | https://www.ropesgray.com/en/insights/alerts/2026/05/colorado-scales-back-ai-law-with-targeted-implications-for-health-care | May 2026 | Search extract; signing date 14 May (one source 18 May) |
+| $1,500 | Max NYC LL144 penalty per violation per day; enforcement found ineffective | NY State Comptroller; DLA Piper | https://www.osc.ny.gov/state-agencies/audits/2025/12/02/enforcement-local-law-144-automated-employment-decision-tools | 2 Dec 2025 | Search extract; audit PDF not read |
+| $1m | Max SB 53 civil penalty per violation (large frontier developers, >$500m revenue) | FPF | https://fpf.org/blog/californias-sb-53-the-first-frontier-ai-law-explained/ | Effective 1 Jan 2026 | Search extract |
+| 54.4% | US nonfarm business labour share, Q4 2025 (down 1.7% y/y); 2025 productivity +2.2% | BLS Productivity and Costs | https://www.bls.gov/news.release/archives/prod2_03242026.htm | 24 Mar 2026 | Official statistic, search extract; subject to revision |
+| ~$700-745bn | Combined 2026 capex guidance, Microsoft, Alphabet, Amazon, Meta | Yahoo Finance; datacentres.com tracker | https://finance.yahoo.com/markets/article/magnificent-7-earnings-rush-reveals-ai-spending-surge-with-hyperscaler-capex-set-to-reach-725-billion-in-2026-224901707.html | Apr-Oct 2026 | Company guidance via aggregators; definitions differ; not from filings |
+| 0 (CI rules out large effects) | Effect of AI chatbot adoption on earnings and hours, Denmark, 25,000 workers | Humlum & Vestergaard, NBER WP 33777 | https://econpapers.repec.org/RePEc:nbr:nberwo:33777 | 2025 | Strong design; early period (2023-24); search extract |
+| <=0.66% | Upper bound on 10-year TFP gain from AI (0.53% adjusted) | Acemoglu, Economic Policy | https://www.nber.org/papers/w32487 | 2024/2025 | Academic forecast |
+| $1.5bn (~$3,000/work) | Bartz v. Anthropic class settlement, final approval 20 Jul 2026 | JURIST | https://www.jurist.org/news/2026/07/judge-approves-record-1-5-billion-settlement-involving-anthropic/ | Jul 2026 | Search extract; docket not checked |
+| 2,243 | Westlaw headnotes copied by Ross; Third Circuit: not fair use | Haynes Boone; LawNext | https://www.haynesboone.com/news/alerts/third-circuit-rejects-fair-use-for-rosss-copying-of-westlaw-headnotes | 29 Sep 2026 | Search extract; opinion not read |
+| 415 TWh (1.5%) to ~945 TWh | Global data-centre electricity 2024 to 2030 (base case) | IEA, Energy and AI | https://www.iea.org/reports/energy-and-ai/executive-summary | Apr 2025 | Agency projection; search extract |
+| 6.7-12% | Projected US data-centre share of electricity by 2028 | LBNL (Shehabi et al.) | https://energyanalysis.lbl.gov/publications/2024-lbnl-data-center-energy-usage-report | 19 Dec 2024 | Range reflects scenario uncertainty |
+| $193,000 | DoNotPay FTC final order (5-0) | FTC via Slashdot | https://tech.slashdot.org/story/25/02/11/1932223/ | 11 Feb 2025 | Search extract |
+| $25m / $15.9m / $14m | Alleged consumer losses: Ascend Ecom / FBA Machine / Click Profit | FTC complaints via press | https://siliconangle.com/2024/09/25/ftc-cracks-misleading-ai-powered-business-schemes-new-initiative/ | 2024-2025 | Allegations, not findings |
+| $225k + $175k | SEC penalties, Delphia and Global Predictions (first AI-washing cases) | Baker McKenzie; Ropes & Gray | https://www.ropesgray.com/en/insights/alerts/2025/01/ai-washing-enforcement-in-the-final-days-of-the-gensler-administration | Mar 2024 | Search extract |
 
 ## Verbatim quotes
 
@@ -209,3 +226,9 @@ None. No source page could be opened in this session, so no wording could be con
 8. Gibson Dunn on the AI Act omnibus: what was and was not delayed. https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/
 9. Ropes & Gray on the December 2025 pre-emption executive order: mechanics and legal weak points. https://www.ropesgray.com/en/insights/alerts/2025/12/trump-attempts-to-preempt-state-ai-regulation-through-executive-order
 10. TUC draft AI bill: the most concrete worker-side legislative text in the UK. https://www.tuc.org.uk/research-analysis/reports/artificial-intelligence-regulation-and-employment-rights-bill
+11. NY State Comptroller, audit of DCWP enforcement of Local Law 144 (Dec 2025): the only official audit of a US AI employment law in operation. https://www.osc.ny.gov/state-agencies/audits/2025/12/02/enforcement-local-law-144-automated-employment-decision-tools
+12. Humlum and Vestergaard, "Large Language Models, Small Labor Market Effects" (NBER 2025) and the 2026 update: the strongest register-data evidence on wages and hours. https://econpapers.repec.org/RePEc:nbr:nberwo:33777
+13. IEA, "Energy and AI" (Apr 2025): the reference numbers for the energy debate. https://www.iea.org/reports/energy-and-ai/executive-summary
+14. Third Circuit opinion, Thomson Reuters v. Ross (Sep 2026), via LawNext: first appellate ruling on AI training and fair use. https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html
+15. FTC complaint against Air AI (Aug 2025), via DLA Piper: what regulators treat as deceptive in agent marketing to small businesses. https://www.dlapiper.com/en/insights/publications/2025/08/ftcs-latest-ai-washing-case
+16. Ropes & Gray on Colorado's repeal and replacement (May 2026): the clearest case of a state AI law announced and then withdrawn. https://www.ropesgray.com/en/insights/alerts/2026/05/colorado-scales-back-ai-law-with-targeted-implications-for-health-care
