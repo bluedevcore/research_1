@@ -16,7 +16,7 @@ The thesis bundles six claims. They fare very differently.
 | B | Transformation is the hard part | **Holds**, with good evidence |
 | C | AI fails because the business isn't ready | **Partly holds.** One cause among several. Cost, unclear value, risk and tech reliability are cited as often. |
 | D | Nobody can describe the real workflow | **Plausible, thinly evidenced.** One strong source (RAND); no measurement. |
-| E | No shared context for humans and agents | **Plausible, vendor-evidenced.** Writing context down is not yet shown to help agents. |
+| E | No shared context for humans and agents | **Plausible, vendor-evidenced.** Only human-written context is shown to help, and only slightly, for coding agents. Auto-generated context hurt. |
 | F | People resist a whole new way of working | **Mostly breaks.** Workers adopt faster than employers. Where resistance exists it is often rational. |
 
 ## What holds

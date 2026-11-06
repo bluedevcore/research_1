@@ -33,3 +33,4 @@
 2026-11-06T21:46Z DONE 14-reading-list.md and 15-open-questions.md
 2026-11-06T21:46Z DONE 99-morning-brief.md (under 800 words)
 2026-11-06T21:47Z DONE 00-INDEX.md. Next: PDF export.
+2026-11-06T21:54Z PDF EXPORT DONE. pandoc 3.1.3 with weasyprint as PDF engine (first option in the brief; no LaTeX installed, so weasyprint used as pandoc's engine). 18 per-file PDFs + combined AI-native-transition-full.pdf (222 pages, order 99, 00, 01-15). Checked rendering of title/TOC, 01 table and links, and 12 facts tables: OK. Fixed dollar signs being parsed as TeX math. Updated 01 verdict row E after verification correction.
